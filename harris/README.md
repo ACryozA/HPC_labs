@@ -29,6 +29,7 @@
 
 
 В рисунке представлены результаты работы программы:
+
 **CPU**
 <img width="308" height="658" alt="CPU_res" src="https://github.com/user-attachments/assets/e34de6b8-4b5c-40e6-81fd-a895ed6c1628" />
 
