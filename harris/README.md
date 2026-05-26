@@ -40,6 +40,7 @@
 
 
 Время вычисления:
-Execution time without GPU: 0.0319 seconds/n
-Execution time with GPU: 0.0169 seconds/n
-Results match: True/n
+
+Execution time without GPU: 0.0739 seconds
+Execution time with GPU: 0.0831 seconds
+Results match: True
